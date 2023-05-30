@@ -1,0 +1,13 @@
+advantage:
+insertion and delete at interior of arr is fast
+
+Single linked list
+- The linked list instance must keep a reference to the first node of list, known as the head.
+- Linking hopping / pointer hopping: move from one node to its next
+- Use a reference to tail for fast adding
+
+Circularly linked list
+- advance the tail reference to point the node that follows it
+
+Doubly linked list
+- 
